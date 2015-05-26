@@ -1,0 +1,42 @@
+
+body {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    max-width: 100%;
+}
+input {
+    font-size: 20px;
+    padding: 10px;
+    max-width: 100%;
+}
+h2 {
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 35px;
+    color: #009999;
+}
+form {
+    margin: 0px;
+    padding: 0px;
+}
+h3 {
+    font-size: 13px;
+    color: #666666;
+    font-weight: normal;
+}
+h3 a {
+    color: #006699;
+    text-decoration: none;
+}
+table {
+    font-size: 13px;
+    background-color: #EBEBEB;
+    border: 1px solid #CCCCCC;
+}
+
