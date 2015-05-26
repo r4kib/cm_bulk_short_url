@@ -1,4 +1,4 @@
- # BULK URL SHORTNER BY CODEMIRE 
+# BULK URL SHORTNER BY CODEMIRE 
  ------------------------------
 This script allows you to create short url in bulk amount.
 
